@@ -1,0 +1,17 @@
+{
+    "Usuarios":[
+        {
+            "ID":1,
+            "nome": "Isabelle Souza",
+            "idade":18,
+            "curso":"TDS"
+        },
+
+        {
+            "ID":2,
+            "nome": "Henrique",
+            "idade":18,
+            "curso":"TDS"
+        }
+    ]
+}
